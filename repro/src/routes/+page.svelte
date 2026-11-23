@@ -12,5 +12,6 @@
 	<p class="text-muted-foreground">
 		Import and use components here to create a local reproduction for this lab.
 	</p>
-	<Button variant="outline" href="https://github.com/aihxp/shadcn-svelte-lab">GitHub</Button>
+	<Button variant="outline" href="https://github.com/hannsxpeter/shadcn-svelte-lab">GitHub</Button
+	>
 </main>

@@ -29,12 +29,12 @@
 					CokaKoala
 				</a>. shadcn-svelte-lab is kept as an experiment by
 				<a
-					href="https://github.com/aihxp"
+					href="https://github.com/hannsxpeter"
 					target="_blank"
 					rel="noreferrer"
 					class="font-medium underline underline-offset-4"
 				>
-					aihxp</a
+					hannsxpeter</a
 				>.
 			</div>
 		</div>

@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Get Help
+  - name: Upstream shadcn-svelte Discussions
     url: https://github.com/huntabyte/shadcn-svelte/discussions/new?category=help
-    about: If you can't get something to work the way you expect, open a question in our discussion forums.
-  - name: Discord
+    about: Questions about the upstream huntabyte/shadcn-svelte project (not for shadcn-svelte-lab fork-specific issues).
+  - name: Upstream shadcn-svelte Discord
     url: https://shadcn-svelte.com/discord
-    about: If you need to have a back-and-forth conversation, join the Discord server.
+    about: Community Discord server for the upstream shadcn-svelte project (not a support channel for this fork).

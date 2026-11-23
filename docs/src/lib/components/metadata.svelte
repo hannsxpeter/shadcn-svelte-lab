@@ -41,8 +41,8 @@
 	<title>{trueTitle}</title>
 	<meta name="description" content={description} />
 	<meta name="keywords" content={keywords?.join(",")} />
-	<meta name="author" content="aihxp" />
-	<meta name="creator" content="aihxp" />
+	<meta name="author" content="hannsxpeter" />
+	<meta name="creator" content="hannsxpeter" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content={siteConfig.url} />
 	<meta name="twitter:title" content={title} />

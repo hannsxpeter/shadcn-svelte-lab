@@ -4,10 +4,10 @@
 	"version": "0.1.0",
 	"description": "Experimental Svelte UI component and design system lab. Search registries, install components as source code, and audit your project.",
 	"author": {
-		"name": "aihxp"
+		"name": "hannsxpeter"
 	},
-	"homepage": "https://github.com/aihxp/shadcn-svelte-lab",
-	"repository": "https://github.com/aihxp/shadcn-svelte-lab",
+	"homepage": "https://github.com/hannsxpeter/shadcn-svelte-lab",
+	"repository": "https://github.com/hannsxpeter/shadcn-svelte-lab",
 	"license": "MIT",
 	"logo": "skills/shadcn-svelte/assets/shadcn-svelte.png",
 	"keywords": [
