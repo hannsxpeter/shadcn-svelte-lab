@@ -7,9 +7,15 @@
 		"name": "huntabyte & CokaKoala",
 		"url": "https://twitter.com/huntabyte"
 	},
+	"maintainers": [
+		{
+			"name": "hannsxpeter",
+			"url": "https://github.com/hannsxpeter"
+		}
+	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aihxp/shadcn-svelte-lab.git",
+		"url": "https://github.com/hannsxpeter/shadcn-svelte-lab.git",
 		"directory": "packages/cli"
 	},
 	"type": "module",

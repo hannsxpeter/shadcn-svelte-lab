@@ -37,6 +37,6 @@ export const siteConfig = {
 	],
 	links: {
 		x: "https://x.com/huntabyte",
-		github: "https://github.com/aihxp/shadcn-svelte-lab",
+		github: "https://github.com/hannsxpeter/shadcn-svelte-lab",
 	},
 };

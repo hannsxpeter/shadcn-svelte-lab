@@ -26,6 +26,6 @@ If you want to see an example of a registry for this lab, this repository includ
 
 You can clone the lab template using `degit`:
 
-<PMExecute command="degit aihxp/shadcn-svelte-lab/registry-template" />
+<PMExecute command="degit hannsxpeter/shadcn-svelte-lab/registry-template" />
 
 For the maintained upstream Svelte template, use the canonical [huntabyte/shadcn-svelte registry template](https://github.com/huntabyte/shadcn-svelte/tree/main/registry-template) instead.
